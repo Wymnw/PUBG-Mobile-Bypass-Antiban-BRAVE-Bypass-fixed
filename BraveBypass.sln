@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2890B7EA-A709-43C8-A9D1-25F231D28F7F}") = "BraveBypass", "BraveBypass\BraveBypass.csproj", "{79F145D3-0FC3-488E-B8EB-2C0DC68CEE46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79F145D3-0FC3-488E-B8EB-2C0DC68CEE46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79F145D3-0FC3-488E-B8EB-2C0DC68CEE46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79F145D3-0FC3-488E-B8EB-2C0DC68CEE46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79F145D3-0FC3-488E-B8EB-2C0DC68CEE46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B66616AC-D0BD-43A3-ABC5-D90745B7DC78}
+	EndGlobalSection
+EndGlobal
